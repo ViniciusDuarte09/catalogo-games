@@ -1,2 +1,2 @@
-# catalogo-games
+# Catálogo de Jogos
  
