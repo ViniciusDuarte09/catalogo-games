@@ -9,3 +9,15 @@ Our goal is to deepen our knowledge in web development. As IT students, we creat
 - You can access my personal instagram [clicking here](https://www.instagram.com/gui.a.bitt/).
 - Email: guilherme.assis.bittencourt@gmail.com
 ***
+
+### Vinícius
+
+> "Hi, I'm Vini and actually a software developer with focus in back-end, DataBases and Network. I intend to work with
+> Java, PHP and Python and i'me studyng for this =D. "
+
+#### Can you contact me through:
+
+- **Email:** viniciusduartesant@gmail.com
+- **Intagram:** [Click Here](https://www.instagram.com/msv_vic/)
+
+**I'm more active in E-Mail**
